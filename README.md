@@ -35,7 +35,7 @@ npm install
 
 ### 3. Configurează Variabilele de Mediu
 
-Creează un fișier .env în directorul backend și configurează-l cu detaliile bazei de date. Exemplu pentru PostgreSQL:
+Creează un fișier .env în directorul portfolio-backend și configurează-l cu detaliile bazei de date. Exemplu pentru PostgreSQL:
 
 ```bash
 DB_HOST=localhost
@@ -65,7 +65,7 @@ Serverul back-end ar trebui să ruleze pe http://localhost:3000.
 
 ### 6. Configurare Frontend
 
-Navighează în directorul frontend:
+Navighează în directorul portfolio-frontend:
 
 ```bash
 cd ../portfolio-frontend
