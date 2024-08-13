@@ -1,0 +1,9 @@
+.add-work-form {
+    padding: 20px;
+  }
+  
+  .add-work-form input[type="text"], 
+  .add-work-form textarea {
+    margin-bottom: 15px;
+  }
+  
